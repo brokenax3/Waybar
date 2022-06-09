@@ -1,5 +1,7 @@
 #pragma once
 
+#define HAVE_WLR
+#define USE_EXPERIMENTAL
 #include <json/json.h>
 #ifdef HAVE_LIBDATE
 #include "modules/clock.hpp"
