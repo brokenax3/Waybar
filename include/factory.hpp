@@ -2,6 +2,8 @@
 
 #define HAVE_WLR
 #define USE_EXPERIMENTAL
+#define HAVE_DBUSMENU
+#define HAVE_SWAY
 
 #include <json/json.h>
 #ifdef HAVE_LIBDATE
